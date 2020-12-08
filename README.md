@@ -7,5 +7,5 @@ Written using Django and Postgres.
 This tool is in an early stage of development.
 ## Installation
 
-- Install Poetry and Postgres.
-- Download the repo and install using poetry install.
+- Install ```Poetry``` and ``` Postgres```.
+- Download the repo and install using ```poetry install```.
